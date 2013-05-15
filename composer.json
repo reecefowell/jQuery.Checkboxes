@@ -1,0 +1,14 @@
+{
+    "name": "reecefowell/jQuery-Checkboxes",
+    "description": "Multi select/deselect checkboxes in javascript.",
+    "keywords": ["checkboxes"],
+    "homepage": "http://github.com/reecefowell/jQuery.Checkboxes/",
+    "license": "MIT"
+    "authors": [
+    	{
+    		"name": "Reece Fowell",
+			"email": "reece@codeconsortium.com",
+			"homepage": "http://reecefowell.com"
+    	}
+    ]
+}
