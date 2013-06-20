@@ -108,6 +108,7 @@ The value can be either a valid JSON array, or a string, the plugin will handle 
 
 As long as the qualifier stated can be found in one or more of the checkboxes they will be ticked off.
 
+Note also, the 'data-select-none' can be used to deselect all checkboxes.
 
 ## Bootstrapping
 
